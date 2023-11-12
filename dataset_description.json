@@ -16,5 +16,6 @@
     "EthicsApprovals": [
         "The study was approved by the ethics committee of the FSFB (CCEI-11234-2019/CCEI-11971-2020) and is registered at Clinicaltrials.gov (NCT04571255) - All participants signed informed consent"
     ],
-    "BIDSVersion": "1.8.0"
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004840.v1.0.0"
 }
