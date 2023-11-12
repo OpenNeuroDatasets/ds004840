@@ -1,0 +1,29 @@
+{
+    "date": {
+        "Description": "date of the session dd/mm/yyyy"
+    },
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "recording_id": {
+        "Description": "Unique participant session identifier"
+    },
+    "sample_rate": {
+        "Description": "Sampling frequency (in Hz) of all the data in the recording, regardless of their type"
+    },
+    "name_path": {
+        "Description": "name of the session file for the patient and the session"
+    },
+    "gender": {
+        "Description": "Biological sex of the participant",
+        "Levels": {
+            "F": "female",
+            "M": "male"
+        }
+    "mt_start_time": {
+        "Description": "Time in seconds of the beginning of the music therapy intervention"
+    },
+    "mt_end_time": {
+        "Description": "Time in seconds of the ending of the music therapy intervention"
+    },
+}
