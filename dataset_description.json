@@ -1,6 +1,6 @@
 {
-    "Name": "Dataset of electrophysiological signals (EEG, ECG, EMG) during Music therapy with adult burn patients in the Intensive Care Unit",
-    "License": "PDDL",
+    "Name": "Dataset of electrophysiological signals (EEG, ECG, EMG) during Music therapy with adult burn patients in the Intensive Care Unit.",
+    "License": "CC0",
     "DatasetType": "raw",
     "Authors": [
         "Jose Cordoba-Silva",
@@ -13,6 +13,8 @@
         "Viviana Gómez-Ortega",
         "Mark Ettenberger"
     ],
-    "EthicsApprovals": ["The study was approved by the ethics committee of the FSFB (CCEI-11234-2019/CCEI-11971-2020) and is registered at Clinicaltrials.gov (NCT04571255) - All participants signed informed consent"],
+    "EthicsApprovals": [
+        "The study was approved by the ethics committee of the FSFB (CCEI-11234-2019/CCEI-11971-2020) and is registered at Clinicaltrials.gov (NCT04571255) - All participants signed informed consent"
+    ],
     "BIDSVersion": "1.8.0"
 }
